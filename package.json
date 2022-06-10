@@ -1,0 +1,23 @@
+{
+  "name": "fishbot",
+  "version": "1.0.0",
+  "description": "Discord Bot created by Fishnorton, runs on a node.js heroku app",
+  "main": "fishBotMain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fishnorton/fishBot.git"
+  },
+  "author": "Fisher N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fishnorton/fishBot/issues"
+  },
+  "homepage": "https://github.com/Fishnorton/fishBot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  }
+}
